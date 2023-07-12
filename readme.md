@@ -6,15 +6,15 @@
 
 ## 1.1 Run single leaf separation program
 
-​	Just run the main.m file, and save the results in the Leaf folder
+​	Just run the main.m file, and save the results in the Leaf folder.
 
 ## 1.2 Run Noise removal program
 
-​	Just run the Noise_removal.m file, and the result is saved in the leaf_cutAgain folder
+​	Just run the Noise_removal.m file, and the result is saved in the leaf_cutAgain folder.
 
 ## 1.3 Run Hexagonal prism envelope program
 
-​	Run Color.m step_1_drawleafpoint.m, step_2_defineprism.m, step_3_drawprism.m file successively
+​	Run Color.m step_1_drawleafpoint.m, step_2_defineprism.m, step_3_drawprism.m file successively.
 
 
 
